@@ -1,0 +1,2 @@
+echo "node_modules/
+.env" | Out-File -Encoding UTF8 .gitignore
